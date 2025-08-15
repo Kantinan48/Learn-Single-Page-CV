@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 20px;
+}
+
+.paper {
+    max-width: 500px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.g{
+    color: #228e39;
+}
+
+.b {
+    color: #195aaf;
+}
